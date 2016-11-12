@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/OpenframeProject/Openframe-Extension.svg?branch=master)](https://travis-ci.org/OpenframeProject/Openframe-Extension) [![Coverage Status](https://coveralls.io/repos/github/OpenframeProject/Openframe-Extension/badge.svg?branch=master)](https://coveralls.io/github/OpenframeProject/Openframe-Extension?branch=master)
 
-A base module used to create extensions for Openframe.
+A base module used to create extensions for Openframe. [Available extensions I found on github are here] (https://github.com/nosarious/Openframe-Extension/blob/master/AVAILABLE-EXTENSIONS.md)
 
 [Openframe](http://openframe.io) is an open source platform for displaying art. Frames running the [Openframe controller](https://github.com/OpenframeProject/Openframe) software can load extensions which add functionality.
 
